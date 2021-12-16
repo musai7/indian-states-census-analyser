@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
-
+*.classpath
+*.settings
+pom.xml
+*.project
 # Log file
 *.log
 
