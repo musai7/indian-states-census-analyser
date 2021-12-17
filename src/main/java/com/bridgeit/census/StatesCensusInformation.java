@@ -1,8 +1,5 @@
 package com.bridgeit.census;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class StatesCensusInformation {
 
 	private String stateName;
