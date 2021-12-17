@@ -9,7 +9,7 @@ public class UserInterface {
 	public int showUserMenu() {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("enter \n 1. to add state census \n 2.write data into CSV file \n 3.read data from CSV file "
-				+ "\n 4.to print states census \n 5.to count entries \n "+ App.QUIT +".  quit ");
+				+ "\n 4.to print states census \n 5. count no of entries \n "+ App.QUIT +".  quit ");
 		int check = scanner.nextInt();
 		return check;
 	}

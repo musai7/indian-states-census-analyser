@@ -28,7 +28,7 @@ public class App {
 				userInterface.printIndianStateCensus();
 				break;
 			case 5:
-				censusAnalyser.countEntries();
+				userInterface.printCountEntries();
 			case 6:
 				System.out.println("...........closed census book............");
 				break;
